@@ -1,17 +1,5 @@
 layout_spectrum: 0.9489362
 name: TheCrazyPT
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
 color:
   brandStrength: 0.6085106
   saturation: 0.07398286
@@ -24,3 +12,15 @@ color:
   lightness: 0.4851064
   rhythmicContrast: 0.7727805
 typography_spectrum: 0.2599598
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
