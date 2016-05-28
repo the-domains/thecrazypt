@@ -1,17 +1,5 @@
-layout_spectrum: 0.9489362
+layout_spectrum: 0.2425532
 name: TheCrazyPT
-color:
-  brandStrength: 0.6085106
-  saturation: 0.07398286
-  brandColors:
-    - '#FFFFFF'
-    - '#0C0B0F'
-    - '#555449'
-    - '#99706D'
-    - '#FFB4E9'
-  lightness: 0.4851064
-  rhythmicContrast: 0.7727805
-typography_spectrum: 0.2599598
 collections:
   - index:
       navigable: true
@@ -24,3 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.5787234
+color:
+  brandStrength: 0.6085106
+  lightness: 0.4851064
+  saturation: 0.07398286
+  rhythmicContrast: 0.7727805
+  brandColors:
+    - '#010002'
+    - '#202E56'
+    - '#7A707D'
+    - '#F3882D'
+    - '#B63411'
